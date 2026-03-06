@@ -1,1 +1,1 @@
-# Assignment-mobile-app-
+Snake is a game in which a snake needs to explore an environmemt and catch a fruit without hitiing any obstacle or itself.every time the snake catches a fruit.the size of the snake will be increases.but,if you hit by any obstacle.yhe game will be over
